@@ -1,4 +1,4 @@
 # Glolife
 
-You can find the like here:
+You can find the link here:
 https://madhavj0311.github.io/Glolife/
